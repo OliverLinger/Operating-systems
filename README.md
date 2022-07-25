@@ -5,4 +5,4 @@ These have a timer on them and will be added back to the priority queues with in
 Once each process completes it is removed form the priority queue and a messgae is displayed that it has completed and how long it took. 
 Once level 8 priority has been reached it executes in a "Round Robin" fasion.
 When all processes have executed the idle process is executed and the progrem completes.
-Thenprogram is recursive and you can set the number of processes to be executed.
+The program is recursive and you can set the number of processes to be executed.
