@@ -1,5 +1,5 @@
 # Operating systems (M.L.F.Q)
-This is an example of a process managment system ( multi-level feedback queue ) in Python. It contians a mehtod for adding proceesses to the priority queues executing, blocking and creating said processes. Each process  executes in order according to their priority.
+This is an example of a process managment system ( multi-level feedback queue ) in Python. It contains a method for adding proceesses to the priority queues executing, blocking and creating said processes. 
 Some processes will be added to blocked queue and taken out of if resources need to be fetched from memory. 
 These have a timer on them and will be added back to the priority queues with increased priority.
 Once each process completes it is removed form the priority queue and a messgae is displayed that it has completed and how long it took. 
